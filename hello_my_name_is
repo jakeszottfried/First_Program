@@ -10,6 +10,7 @@ public class First_Program
    public static void main(String[] args)
    {
       System.out.println("Hello my name is Admin");
+      System.out.println("Hello my name is Charlie");
       
       //write in the exact same statement as above here but with your own name
       //Don't delete any statements that are already here
