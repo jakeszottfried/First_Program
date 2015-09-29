@@ -1,0 +1,18 @@
+/*Property of MHS App Design
+9/29/15
+Everyone create a branch off of this,
+and print out your name the same way as
+has been done before. Don't delete any
+previous submissions.*/
+
+public class First_Program
+{
+   public static void main(String[] args)
+   {
+      System.out.println("Hello my name is Charlie");
+      
+      //write in the exact same statement as above here but with your own name
+      //Don't delete any statements that are already here
+      
+   }
+}
