@@ -14,6 +14,7 @@ public class First_Program
       System.out.println("Hello my name is Charlie");
       System.out.println("Java = bad");
       System.out.println("Hello my name is Charlienis");
+      System.out.println("Tome has a bird in his gut");
       
       //write in the exact same statement as above here but with your own name
       //Don't delete any statements that are already here
