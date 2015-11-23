@@ -9,6 +9,7 @@ public class First_Program
 {
    public static void main(String[] args)
    {
+      System.out.println("Hello my name is John");
       System.out.println("Hello my name is Admin");
       System.out.println("Hello my name is Charlie");
       System.out.println("Java = bad");
